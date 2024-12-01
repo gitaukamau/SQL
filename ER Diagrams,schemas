@@ -1,0 +1,9 @@
+Your client is a local fast food restaurant - PizzaHot. The background story is as below:
+PizzaHot is a local restaurant serving the community and bringing people happiness. Recent years, PizzaHot is adopting a franchising strategy and is moving towards a chain-restaurant in the State. A database system for Inner Management is crucial for the expansion of the business.
+The information needed is:
+Stores: including ID, name, location, contact information.
+Employees: including ID, SSN, name, gender, DoB, position, salary, AffiliateStore.
+Vendors: including name, address, contactPerson
+Products: including name, Vendor, price, quantity
+Task:
+Based on your understanding so far, what are the entities, attributes, identifiers, and relationships in the Entity Relationship Model? You can lay out the initial outline here, and the owner will meet with you to answer your questions
